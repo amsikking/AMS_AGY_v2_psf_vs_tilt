@@ -1,6 +1,6 @@
 # AMS_AGY_v2_PSF_vs_tilt
 
-<a href="https://doi.org/10.5281/zenodo.14344126"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14344126.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.14344126"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.14344126-blue.svg" alt="DOI"></a>
 
 Data showing how the PSF from an AMS-AGY v2.0 objective changes with tilt.
 
